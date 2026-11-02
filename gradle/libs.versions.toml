@@ -46,8 +46,8 @@ compose-material3 = "1.4.0"
 projectApplicationId = "com.dzem.runique"
 projectVersionName = "1.0"
 projectMinSdkVersion = "25"
-projectTargetSdkVersion = "34"
-projectCompileSdkVersion = "34"
+projectTargetSdkVersion = "37"
+projectCompileSdkVersion = "37"
 projectVersionCode = "1"
 
 [libraries]
