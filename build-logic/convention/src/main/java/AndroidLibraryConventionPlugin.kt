@@ -21,7 +21,7 @@ class AndroidLibraryConventionPlugin: Plugin<Project> {
                 }
             }
             dependencies {
-                "testImplementation"(kotlin("Test"))
+                "testImplementation"(kotlin("test"))
             }
 
         }
