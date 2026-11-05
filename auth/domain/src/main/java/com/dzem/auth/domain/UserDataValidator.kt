@@ -17,7 +17,7 @@ class UserDataValidator(
             hasMinLength = hasMinLength,
             hasNumber= hasNumber,
             hasLowerCaseCharacter = hasLowerCaseCharacter,
-            hasUpperCaseCharacter = hasUpperCaseCharacter
+            hasUpperCaseCharacter = hasUpperCaseCharacter,
         )
     }
 
