@@ -17,4 +17,5 @@ dependencies {
 
     implementation(projects.core.domain)
     implementation(projects.core.datebase)
+    implementation(libs.bundles.koin)
 }
